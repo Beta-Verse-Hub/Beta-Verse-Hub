@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Beta-Verse-Hub
+- 👀 I’m interested in programming & coding, articles, drinking water, science, maths, travelling, etc. 
+- 🌱 I’m currently learning java, python at intermediate level, computer science from surface to deep, etc
+- 📫 I currently live in India, West Bengal
+- 😄 Gender: Male ♂️
+- ⏳ Age: 14
+- 💻 Websites and my account name in them:
+- CodeChef - baibhav1234567
+- CodeForces - BetaForce
+- itch.io - BetaVerseITCH
+- Pixilart.com - BetaVersePixil
+- Medium - BetaDium
