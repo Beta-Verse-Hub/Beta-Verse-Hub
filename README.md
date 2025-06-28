@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Beta-Verse-Hub
-- 👀 I’m interested in programming & coding, articles, drinking water, science, maths, travelling, etc. 
+- 👀 I’m interested in programming & coding, articles, drinking water, science, maths, etc. 
 - 🌱 I’m currently learning c++, python at intermediate level, computer science from surface to deep, etc
 - 📫 I currently live in India, West Bengal
 - 😄 Gender: Male ♂️
-- ⏳ Age: 14
+- ⏳ Age: 15
 - 💻 Websites and my account name in them:
 - CodeChef - baibhav1234567
 - CodeForces - BetaForce
